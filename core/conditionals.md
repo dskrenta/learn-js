@@ -13,3 +13,5 @@ if (name === 'Bill') {
 ```
 
 The expression inside the if statement is the test. This example uses the identity operator which we went over along with the other operators. Try playing around with if ... else blocks with different operators.  
+
+[continue to the next section](https://github.com/dskrenta/learn-js/blob/master/core/functions.md) 

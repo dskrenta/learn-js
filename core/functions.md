@@ -29,3 +29,5 @@ sum(1, 3) // 4
 sum(100, 4) // 104
 sum(41, 1) // 42
 ```
+
+[continue to the next section](https://github.com/dskrenta/learn-js/blob/master/core/events.md) 

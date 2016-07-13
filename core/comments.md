@@ -15,3 +15,5 @@ If you comment has no line breaks (on a single line) it is easier to use to forw
 ```
 // This is a comment
 ```
+
+[continue to the next section](https://github.com/dskrenta/learn-js/blob/master/core/operators.md) 

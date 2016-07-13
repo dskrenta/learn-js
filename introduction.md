@@ -28,4 +28,4 @@ Well that was pretty easy right? Let's break it down: Starting from the left sid
 
 ##### Congratulations, you have started on your JS journey!
 
-[continue to the next section](https://github.com/dskrenta/learn-js) 
+[continue to the next section](https://github.com/dskrenta/learn-js/blob/master/core/variables.md) 

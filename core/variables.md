@@ -49,4 +49,6 @@ Boolean | A True/False value. The words true and false are special keywords in J
 Array | A structure that allows you to store multiple values in one single variable | ```var myArray = [1, 'Bill', 'Bob', 10, false]```
 Object | Anything. Everything in JS is an object, and can be stored in a variable. Keep objects in mind when you learn JS in future sections. | ```var myValue = document.querySelector('h1')```
 
-You might be wondering at this point why we need variables. Well, variables allow you to do interesting things in programming like making a thank you message with a dynamic name. Substitute Bill for Bob or any other value. Variables allow you to write dynamic content, things that changes based on the value of their variables. If objects seem confusing to you now, they will be reviewed again in further detail later. 
+You might be wondering at this point why we need variables. Well, variables allow you to do interesting things in programming like making a thank you message with a dynamic name. Substitute Bill for Bob or any other value. Variables allow you to write dynamic content, things that changes based on the value of their variables. If objects seem confusing to you now, they will be reviewed again in further detail later.
+
+[continue to the next section](https://github.com/dskrenta/learn-js/blob/master/core/comments.md) 
