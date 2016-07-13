@@ -6,17 +6,17 @@ With David Skrenta
 
 ### Introduction
 
-  1. [Introduction to Javascript](https://github.com/dskrenta/learn-js)
+  1. [Introduction to Javascript](https://github.com/dskrenta/learn-js/blob/master/introduction.md)
 
 ### Core Concepts
 
-1. [Variables](https://github.com/dskrenta/learn-js)
-2. [Comments](https://github.com/dskrenta/learn-js)
-3. [Operators](https://github.com/dskrenta/learn-js)
-4. [Conditionals](https://github.com/dskrenta/learn-js)
-5. [Loops](https://github.com/dskrenta/learn-js)
-6. [Functions](https://github.com/dskrenta/learn-js)
-7. [Events](https://github.com/dskrenta/learn-js)
+1. [Variables](https://github.com/dskrenta/learn-js/blob/master/core/variables.md)
+2. [Comments](https://github.com/dskrenta/learn-js/blob/master/core/comments.md)
+3. [Operators](https://github.com/dskrenta/learn-js/blob/master/core/operators.md)
+4. [Conditionals](https://github.com/dskrenta/learn-js/blob/master/core/conditionals.md)
+5. [Loops](https://github.com/dskrenta/learn-js/blob/master/core/loops.md)
+6. [Functions](https://github.com/dskrenta/learn-js/blob/master/core/functions.md)
+7. [Events](https://github.com/dskrenta/learn-js/blob/master/core/events.md)
 
 ### Advanced
 

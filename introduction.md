@@ -16,7 +16,7 @@ JS is one of the best programming languages to learn due to it's low barrier to 
 
 ### How to run these examples
 
-[Getting setup with a Javascript environment](https://github.com/dskrenta/learn-js)
+[Getting setup with a Javascript environment](https://github.com/dskrenta/learn-js/blob/master/enviornment.md)
 
 ### The "hello world" example
 
@@ -28,4 +28,4 @@ Well that was pretty easy right? Let's break it down: Starting from the left sid
 
 ##### Congratulations, you have started on your JS journey!
 
-[continue to the next section](https://github.com/dskrenta/learn-js/blob/master/core/variables.md) 
+[continue to the next section](https://github.com/dskrenta/learn-js/blob/master/core/variables.md)

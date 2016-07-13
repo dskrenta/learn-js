@@ -14,3 +14,5 @@ not equal | Tests whether two values or variables are not equal | !=== | ```'bil
 Here is the complete list of expressions and operators in JS:
 
 [Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators)
+
+[continue to the next section](https://github.com/dskrenta/learn-js/blob/master/core/functions.md) 
