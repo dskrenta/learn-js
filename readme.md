@@ -8,7 +8,7 @@ With David Skrenta
 
   1. [Introduction to Javascript](https://github.com/dskrenta/learn-js/blob/master/introduction.md)
 
-### Core Concepts
+### Core Concepts - Learning Programming
 
 1. [Variables](https://github.com/dskrenta/learn-js/blob/master/core/variables.md)
 2. [Comments](https://github.com/dskrenta/learn-js/blob/master/core/comments.md)
@@ -18,7 +18,9 @@ With David Skrenta
 6. [Functions](https://github.com/dskrenta/learn-js/blob/master/core/functions.md)
 7. [Events](https://github.com/dskrenta/learn-js/blob/master/core/events.md)
 
-### Advanced
+#### Examples
+
+### Advanced - JavaScript Specific
 
 1. Document Object Model
 2. HTML5 API's
