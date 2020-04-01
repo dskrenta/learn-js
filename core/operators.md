@@ -9,7 +9,7 @@ subtract, multiply, divide | These do what you would expect them to do (basic ma
 assignment | You have seen this already in the variables section | = | ```myVar = 'Bill'```
 identity | Does a test to see if two values or variables hold the same value and the same type, returns true/false (Boolean) | === | ```3 === 3```
 negation | Returns logically opposite of what it precedes: example if true then false | ! | ```!(3 === 3) // returns false```
-not equal | Tests whether two values or variables are not equal | !=== | ```'bill' !=== 'bob' // returns true```
+not equal | Tests whether two values or variables are not equal | !== | ```'bill' !== 'bob' // returns true```
 
 Here is the complete list of expressions and operators in JS:
 
