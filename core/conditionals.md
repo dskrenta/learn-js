@@ -7,8 +7,12 @@ var name = 'Bill'
 
 if (name === 'Bill') {
   alert('Hey Bill!')
-} else {
-  alert('Hey you!')
+}
+else if(name === 'Joe') {
+  alert('Hey Joe!');
+}
+else {
+  alert('Hey ' + name)
 }
 ```
 
