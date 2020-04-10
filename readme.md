@@ -1,4 +1,4 @@
-# Learning Javascript - DRAFT
+# Learning Javascript - WIP
 
 With David Skrenta
 
