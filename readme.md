@@ -1,7 +1,5 @@
 # Learning Javascript - WIP
 
-With David Skrenta
-
 ## How to use this resource
 
 If you are completely new to computer programming start with the introduction and continue reading through the core concepts. Take you time and reread sections you do not understand. The best way to learn Javascript is to try it for yourself so follow along with the examples to the best of your ability. If you have programmed in another language before deciding to learn Javascript, feel free to skim the introduction and core section before focusing on the advanced section. If you have experience with Javascript before, go directly to the advanced section. This book can also be used as a reference as it contains many helpful internal and external resources for the seasoned Javascript developer.
